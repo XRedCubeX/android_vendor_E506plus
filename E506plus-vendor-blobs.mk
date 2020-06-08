@@ -287,7 +287,6 @@ PRODUCT_COPY_FILES += \
  vendor/ngm/E506plus/proprietary/lib/libwpa_client.so:system/lib/libwpa_client.so \
  vendor/ngm/E506plus/proprietary/lib/mtk-ril.so:system/lib/mtk-ril.so \
  vendor/ngm/E506plus/proprietary/lib/mtk-rilmd2.so:system/lib/mtk-rilmd2.so \
- vendor/ngm/E506plus/proprietary/lib/smtlibjrdrapijni.so:system/lib/smtlibjrdrapijni.so \
  vendor/ngm/E506plus/proprietary/lib/soundfx/libaudiopreprocessing.so:system/lib/soundfx/libaudiopreprocessing.so \
  vendor/ngm/E506plus/proprietary/lib/soundfx/libbundlewrapper.so:system/lib/soundfx/libbundlewrapper.so \
  vendor/ngm/E506plus/proprietary/lib/soundfx/libdownmix.so:system/lib/soundfx/libdownmix.so \
